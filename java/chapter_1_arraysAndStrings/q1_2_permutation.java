@@ -1,4 +1,4 @@
-// Permutation: Variation of Two strings
+// q1_2_Permutation: Variation of Two strings
 
 // Questions to ask Interview
 // 1. Are string variations case senstive?

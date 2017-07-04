@@ -1,5 +1,7 @@
+// q1_1_is_Unique: check for unique charc
+
 // Questions for Interviewer
-// is the string an ASCII string or a Unicode string?
+// 1. is the string an ASCII string or a Unicode string?
 
 // Time complexity:
 // O(n) where n is the length of the string, or
