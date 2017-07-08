@@ -10,7 +10,7 @@
 // 4. Munipulation algo edits from end and work backwards
 // 5. Algo: two - scan approach (search for space and chars)
 
-import CtCILibrary.AssortedMethods;
+//import CtCILibrary.AssortedMethods;
 
 public class q1_3_URLify {
 	// Assume string has sufficient free space at the end
@@ -47,7 +47,7 @@ public class q1_3_URLify {
 	}
 	
 	public static void main(String[] args) {
-		String str = "Mr John Smith    ";
+		String str = "Mr Angel Benavides    ";
 		char[] arr = str.toCharArray();
 		int trueLength = findLastCharacter(arr) + 1;
 		replaceSpaces(arr, trueLength);	
